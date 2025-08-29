@@ -1,7 +1,7 @@
 # APIS Group 🍅
 
 <div align="center">
-  <img src="https://apis.es/wp-content/uploads/2020/10/logo-apis-group.png" alt="APIS Group Logo" width="300">
+  <img src="assets/trilogo.avif" alt="Logos de Apis Group, APis y Fruco" width="300">
   
   **Más de 90 años llevando lo mejor de la naturaleza a tu mesa**
   
