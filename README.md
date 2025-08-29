@@ -30,8 +30,6 @@ Desde 2023, somos una **corporación eminentemente cooperativa** formada por má
 - Salsas de tomate de máxima calidad
 - Imagen renovada en 2020 manteniendo el espíritu familiar
 
-<mcreference link="https://apis.es/en/" index="2">2</mcreference>
-
 ## 🏢 Instalaciones
 
 ### 📍 Fábrica de Montijo (Badajoz)
@@ -47,7 +45,6 @@ Desde 2023, somos una **corporación eminentemente cooperativa** formada por má
 - Capacidad: **+7 millones de kg/año**
 - Sede central: C/ Sevilla, 36 - Polígono Industrial El Prado
 
-<mcreference link="https://apis.es/en/history/" index="1">1</mcreference> <mcreference link="https://apis.es/en/contact-us/" index="4">4</mcreference>
 
 ## 🌱 Nuestros Valores
 
@@ -68,13 +65,10 @@ Desde 2023, somos una **corporación eminentemente cooperativa** formada por má
 - **2011**: Creación de Carnes y Vegetales S.L. (APIS Group)
 - **2023**: Conversión en corporación 100% cooperativa
 
-<mcreference link="https://apis.es/en/history/" index="1">1</mcreference>
 
 ## 🌍 Impacto Regional
 
 > *"2.500 cooperativistas extremeños producen tomate en la región, nuestras cooperativas lo transforman y conseguimos un producto final, con una marca tan reconocida como Apis y Fruco, que exportamos. Todo eso supone crear más trabajo, más industria y más valor añadido con un importante impacto positivo para toda la sociedad extremeña"*
-
-**Eduardo Fernández**, Director General <mcreference link="https://apis.es/2023/02/08/carnes-y-vegetales-pasa-a-ser-una-empresa-eminentemente-cooperativa/" index="3">3</mcreference>
 
 ## 📞 Contacto
 
@@ -82,8 +76,6 @@ Desde 2023, somos una **corporación eminentemente cooperativa** formada por má
 - **📧 Email**: info@apis.es
 - **📱 Teléfono**: 902 27 40 51
 - **📍 Dirección**: C/ Sevilla, 36 - Polígono Industrial El Prado, 06800 Mérida (Badajoz)
-
-<mcreference link="https://apis.es/en/contact-us/" index="4">4</mcreference> <mcreference link="https://apis.es/en/quality-policy/" index="5">5</mcreference>
 
 ---
 
